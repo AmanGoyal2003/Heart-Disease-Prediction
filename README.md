@@ -33,30 +33,13 @@ Database-Sqlite3
 name - Amanheart.db
 table name - user
 
-Screenshots-
-Signup page-
-![image](https://user-images.githubusercontent.com/82702672/145677319-294c2f3f-3384-42d0-848a-2ecdae03e70b.png)
 
-Login page-
-![image](https://user-images.githubusercontent.com/82702672/145677364-c4020995-e143-463b-9c46-652ab26eb8b2.png)
 
-Forgot Password-
-![image](https://user-images.githubusercontent.com/82702672/145677379-0a27c60a-0abc-4ca1-9254-c8910b96d66b.png)
-
-Home Page-
-![image](https://user-images.githubusercontent.com/82702672/145677406-a3940c4a-a6e2-451c-b790-a9df910e899f.png)
-![image](https://user-images.githubusercontent.com/82702672/145677419-c6f720a2-bf2f-4f8c-9a46-0babb0cc28a1.png)
-![image](https://user-images.githubusercontent.com/82702672/145677424-c5497e31-1f57-406c-b838-287f54a12112.png)
-![image](https://user-images.githubusercontent.com/82702672/145677431-91c5cf18-25ce-49a6-be78-e47f2b23355f.png)
-
-Quiz Page-
-![image](https://user-images.githubusercontent.com/82702672/145677438-292c9ddd-a508-4fe7-9f3e-234b9beb7446.png)
 
 Contributors-
-Solo Project - Aman Gullapalli
+Solo Project - Aman Goyal
 
-Deployed Web Application link -
-https://10Aman.pythonanywhere.com/signup
+
 
 
 
